@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="Uy5qnvk0AKDyMw0KwdHO">
-    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="138" y="430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MjG_X0HuTC_2gSXv-RP4-10" value="Disk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="618" y="435" width="40" height="160" as="geometry" />
+          <mxGeometry x="673" y="435" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MjG_X0HuTC_2gSXv-RP4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MjG_X0HuTC_2gSXv-RP4-11" target="MjG_X0HuTC_2gSXv-RP4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,8 @@
         <mxCell id="MjG_X0HuTC_2gSXv-RP4-11" value="esbuild" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="500" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MjG_X0HuTC_2gSXv-RP4-13" value="JIT compilation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="512" y="490" width="100" height="30" as="geometry" />
+        <mxCell id="MjG_X0HuTC_2gSXv-RP4-13" value="JIT compilation of&lt;div&gt;React component to script&lt;/div&gt;&lt;div&gt;containing interactability&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="513" y="460" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MjG_X0HuTC_2gSXv-RP4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MjG_X0HuTC_2gSXv-RP4-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,8 +69,8 @@
         <mxCell id="MjG_X0HuTC_2gSXv-RP4-34" value="to be sent to the client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="573" y="675" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0luhJKLuGRE_WssasFS_-1" value="* we could also maintain the bundled JS in the&lt;div&gt;memory and consume it from there&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="495" width="270" height="40" as="geometry" />
+        <mxCell id="0luhJKLuGRE_WssasFS_-1" value="* we could also maintain the bundled JS in the&lt;div&gt;memory and consume it from there&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="495" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
