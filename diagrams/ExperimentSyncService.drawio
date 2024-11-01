@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="2Jucwa79CZUr_DcmwOtv">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-1" target="ZMlcRPI8_LscWTF9ODhy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-1" value="Story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-2" target="ZMlcRPI8_LscWTF9ODhy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-2" target="ZMlcRPI8_LscWTF9ODhy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-2" target="ZMlcRPI8_LscWTF9ODhy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-2" value="Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-5" value="Config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-6" value="Auxiliary Data" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-11" value="Build" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="325" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-15" target="ZMlcRPI8_LscWTF9ODhy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-15" value="Story Instance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="307.5" width="82.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-17" value="ExperimentSyncService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-18" value="per experiment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351.25" y="277.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-19" target="ZMlcRPI8_LscWTF9ODhy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-19" value="Client1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.9999999999998" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-20" value="Client2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401.25" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-30" value="the story instance is basically the config and importantly contains the event bindings" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-31" target="ZMlcRPI8_LscWTF9ODhy-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-31" value="ctx1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="325" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-33" target="ZMlcRPI8_LscWTF9ODhy-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="335" />
+              <mxPoint x="610" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-33" value="ctx2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="325" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-34" value="per client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-35" value="per client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.497;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-17" target="ZMlcRPI8_LscWTF9ODhy-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.509;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZMlcRPI8_LscWTF9ODhy-17" target="ZMlcRPI8_LscWTF9ODhy-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.909;exitY=-0.001;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.9999999999998" y="250" as="targetPoint" />
+            <mxPoint x="446.3299999999999" y="449.94000000000005" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="496" y="450" />
+              <mxPoint x="496" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-40" value="Event Bindings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-45" value="updates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="461.25" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMlcRPI8_LscWTF9ODhy-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ExperimentSyncService&lt;/h1&gt;&lt;div&gt;The below is a high-level diagram of the i) relationship between Story and ExperimentSyncService and ii) the end-to-end flow from client to sync updates.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="290" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
